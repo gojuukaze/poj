@@ -1,3 +1,3 @@
 # poj code
-poj.org code.
+http://poj.org/ 
 By:gojuukaze
